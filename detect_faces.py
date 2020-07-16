@@ -14,7 +14,7 @@ parser.add_argument("-p", "--prototxt", required=True,
 	help="path to Caffe 'deploy' prototxt file")
 parser.add_argument("-m", "--model", required=True,
 	help="path to Caffe pre-trained model")
-parser.add_argument("-c", "--confidence", type=float, default=0.5,
+parser.add_argument("-c", "--confidence", type=float, default=0.9,
 	help="minimum probability to filter weak detections")
 args = vars(parser.parse_args())
 
