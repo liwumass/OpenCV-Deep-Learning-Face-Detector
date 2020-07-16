@@ -1,5 +1,5 @@
 ## OpenCV-Deep-Learning-Face-Detector
-  - ### Task: Face Detection in Images / Videos
+  - ### Task: Face Detection in Images
   - ### Tools: OpenCV, Deep Learning; dnn module in OpenCV
   - ### Method: Transfer learning
   - ### Weight: Caffe pre-trained weight
